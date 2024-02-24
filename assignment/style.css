@@ -1,6 +1,7 @@
 /* Add a background color to the header element */
 Header {
     background-color: purple;
+    color:yellow;
 }
 
 /* Add a fun background color to the main element */
@@ -15,18 +16,19 @@ h1 {
 
 /* Make your p tag a different color and italic */
 P {
-    color: red;
-    font-style: italic
+    color: purple;
+    font-style: italic;
 }
 
 Blockquote {
-    color: red;
+    color:purple;
 }
 /* Put a border around your image */
 img {
     border-width: 5px;
-    border-color:black;
+    border-color:purple;
     border-style: solid;
+    
     
 }
 /* Change the font-family of your list */
@@ -35,7 +37,12 @@ Blockquote {
 }
 
 /* Add a background color to the footer element */
-footer{
+Footer{
     background-color:purple;
     
+}
+/* Change the color of the Li (did this myself!) */
+Li{
+    color:yellow;
+
 }
