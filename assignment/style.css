@@ -20,7 +20,7 @@ P {
     font-style: italic;
 }
 
-Blockquote {
+ul {
     color:purple;
 }
 /* Put a border around your image */
@@ -32,7 +32,7 @@ img {
     
 }
 /* Change the font-family of your list */
-Blockquote {
+ul {
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -42,7 +42,7 @@ Footer{
     
 }
 /* Change the color of the Li (did this myself!) */
-Li{
+p{
     color:yellow;
 
 }
