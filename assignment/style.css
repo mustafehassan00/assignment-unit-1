@@ -24,7 +24,9 @@ Blockquote {
 }
 /* Put a border around your image */
 img {
-    border: 100px;color: blue;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
     
 }
 /* Change the font-family of your list */
